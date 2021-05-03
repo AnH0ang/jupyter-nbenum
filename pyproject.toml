@@ -1,10 +1,11 @@
 [tool.poetry]
 name = "jupyter_nbenum"
-version = "1.0.0"
-description = ""
+version = "1.0.1"
+description = "Indexes the headings in a Jupyter notebook and adds a clickable table of contents."
 authors = ["An Hoang <anhoang31415@gmail.com>"]
 readme = "README.md"
-repository = ""
+repository = "https://github.com/AnH0ang/jupyter-nbenum"
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
